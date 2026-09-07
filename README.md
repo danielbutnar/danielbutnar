@@ -16,4 +16,4 @@ Since 2023 I've taken part in over 20 international Erasmus+ projects across Eur
 
 ## Reach me
 
-daniel.butnar@gmail.com · [LinkedIn](https://www.linkedin.com/in/daniel-butnar-b4998b25b/)
+daniel.butnar@gmail.com · [LinkedIn](www.linkedin.com/in/daniel-butnar)

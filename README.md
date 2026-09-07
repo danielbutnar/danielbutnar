@@ -5,6 +5,7 @@ Engineering student at Politehnica University of Bucharest — Electronics, Tele
 I write Java. I'm working through backend fundamentals at the moment, which mostly means building small things, breaking them, and finding out why.
 
 **Currently learning:**
+deep learning and large language models · Java frameworks and tooling
 
 ## Languages
 
